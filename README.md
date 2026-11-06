@@ -1,1 +1,1 @@
-# Kuma-Toturial
+# Kuma-Tutorial
