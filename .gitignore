@@ -1,0 +1,4 @@
+/.kuma/
+/.build_demo/
+
+.env
